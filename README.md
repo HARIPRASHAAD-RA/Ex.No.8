@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 20-03-2026
+# Reg. No. 212223040060
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -47,6 +47,16 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+
+## PROMPTS USED:
+
+1. 
+Create an image of a lion standing in a calm pose with sunlight hitting its face , the lion is standing in side pose tail side in the left of the image and facing right looking upright . you get the idea right . it is standing on a peak ledge , the background is a vast plain land . it’s sun set time and the horizon is filled in a neon pink with warm yellow giving the sun set time , it’s a portrait 4:3 ratio and in the plains in the background there are 3 elephants walking acrosss : 
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/4bf053d7-4838-4bd3-a0b8-eb2bec0d66b3" />
+
+2.
+its a full moon night and the moon is gigantic , not in a realistic proportion but very dramatic in size bright and center on top . beneath the bright moon light there is a very plain desert , flat desert completely , not sand but a flat , white stone like desert , our subject in hte image is centered in this desert. the subject is a 6 pillar old ruins of  a pillard hall , the angle is a very low angle pointed up (camera kepton the floor) have a few debris visible in the foreground since the camera is on the ground , the moon is celarly visible but on its left and right there are pkenty of cloud but they do not hide the moon.
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/99a63d15-b5f9-4e85-93f6-cd3b593e7e9f" />
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
